@@ -1,0 +1,21 @@
+Age,Gender,ChestPainType,RestingBP,Cholesterol,FastingBS,RestingECG,MaxHR,ExerciseAngina,Oldpeak,ST_Slope,HeartDisease
+52,Male,Typical Angina,140,230,0,Normal,150,No,1.2,Up,0
+61,Female,Asymptomatic,150,290,1,ST,125,Yes,2.4,Flat,1
+48,Male,Non-Anginal Pain,130,210,0,Normal,170,No,0.8,Up,0
+67,Female,Asymptomatic,160,310,1,LVH,118,Yes,3.1,Down,1
+56,Male,Atypical Angina,145,245,0,Normal,142,No,1.4,Flat,0
+63,Female,Asymptomatic,155,305,1,ST,120,Yes,2.8,Down,1
+45,Male,Typical Angina,128,198,0,Normal,176,No,0.4,Up,0
+58,Female,Non-Anginal Pain,138,240,0,Normal,155,No,1.0,Flat,0
+70,Male,Asymptomatic,165,330,1,LVH,110,Yes,3.5,Down,1
+50,Female,Atypical Angina,132,220,0,Normal,162,No,0.7,Up,0
+54,Male,Typical Angina,142,235,0,Normal,148,No,1.1,Flat,0
+66,Female,Asymptomatic,158,315,1,ST,115,Yes,2.9,Down,1
+49,Male,Non-Anginal Pain,126,205,0,Normal,172,No,0.5,Up,0
+62,Female,Asymptomatic,152,298,1,LVH,123,Yes,2.6,Flat,1
+47,Male,Atypical Angina,134,218,0,Normal,168,No,0.9,Up,0
+59,Female,Asymptomatic,149,285,1,ST,130,Yes,2.1,Flat,1
+53,Male,Typical Angina,138,225,0,Normal,152,No,1.3,Up,0
+68,Male,Asymptomatic,162,325,1,LVH,112,Yes,3.3,Down,1
+46,Female,Non-Anginal Pain,124,200,0,Normal,174,No,0.3,Up,0
+64,Male,Asymptomatic,156,300,1,ST,119,Yes,2.7,Flat,1
