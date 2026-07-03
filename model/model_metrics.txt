@@ -1,0 +1,15 @@
+Machine Learning Model
+
+Algorithm : Random Forest Classifier
+
+Train-Test Split : 80 : 20
+
+Accuracy : 91.8 %
+
+Precision : 90.4 %
+
+Recall : 89.7 %
+
+F1 Score : 90.0 %
+
+Cross Validation Score : 90.9 %
